@@ -37,3 +37,5 @@ You are computing the greatest common divisor ("gcd") of two positive integers c
       gcd(a,b) = gcd(a,b-a)           if a < b 
 
 Write a JavaScript (_not_ Python) program that declares a function called gcd that accepts two positive integer arguments a and b and returns their greatest common divisor. Store your function in a variable called javascriptcode.
+
+(4) Up To Ten:  Define a JavaScript function that embodies the same functionality as the Python code.
