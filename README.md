@@ -4,7 +4,7 @@
 
 Hint 1: Use an exclusive state for /* comments */. You may want to define t_comment_ignore and t_comment_error as well. 
 
-(2) In this exercise you will finish out the token definitions for JavaScript by handling Numbers, Identifiers and Strings. We have split the lexing of JavaScript into two exercises so that you have a chance to demonstrate your mastery of the concepts independently (i.e., so that you can get one of them right even if the other proves difficult). We could easily make a full JavaScript lexer by putting all of the rules together. For this assignment, a JavaScript IDENTIFIER must start with an upper- or lower-case character. It can then contain any number of upper- or lower-case characters or underscores. Its token.value is the textual string of the identifier. 
+(2) Javascript Numbers And Strings:  In this exercise you will finish out the token definitions for JavaScript by handling Numbers, Identifiers and Strings. We have split the lexing of JavaScript into two exercises so that you have a chance to demonstrate your mastery of the concepts independently (i.e., so that you can get one of them right even if the other proves difficult). We could easily make a full JavaScript lexer by putting all of the rules together. For this assignment, a JavaScript IDENTIFIER must start with an upper- or lower-case character. It can then contain any number of upper- or lower-case characters or underscores. Its token.value is the textual string of the identifier. 
 
       Yes:    my_age
       Yes:    cRaZy
